@@ -4,6 +4,6 @@ metadata:
   name: webstore-admin
 rules:
 - apiGroups: ["marketplace.com"]
-  resources: ["webstores"]
+  resources: ["webstores", "fulfillmentcenters"]
   verbs:
   - "*"
