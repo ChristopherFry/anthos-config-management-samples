@@ -1,0 +1,7 @@
+kind: FulfillmentCenter
+apiVersion: marketplace.com/v1
+metadata:
+  name: production-v1
+  namespace: gamestore
+spec:
+  address: "100 Industry St."
