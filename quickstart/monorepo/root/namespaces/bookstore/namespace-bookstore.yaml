@@ -3,5 +3,4 @@ kind: Namespace
 metadata:
   name: bookstore
   labels:
-    owner: config-sync-team
-    env: prod
+    owner: config-sync-team-eng
