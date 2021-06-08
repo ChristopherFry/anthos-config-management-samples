@@ -1,8 +1,0 @@
-kind: FulfillmentCenter
-apiVersion: marketplace.com/v3
-metadata:
-  name: production-v3
-  namespace: gamestore
-spec:
-  address: "200 Industry St."
-  city: "SF"
