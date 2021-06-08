@@ -1,0 +1,7 @@
+kind: FulfillmentCenter
+apiVersion: acme.com/v1
+metadata:
+  name: bookstore-fulfillment
+  namespace: bookstore
+spec:
+  address: "100 Industry St."
