@@ -1,0 +1,8 @@
+kind: FulfillmentCenter
+apiVersion: acme.com/v3
+metadata:
+  name: gamestore-fulfillment
+  namespace: gamestore
+spec:
+  address: "300 Industry St."
+  city: "SF"
