@@ -4,3 +4,4 @@ metadata:
   name: gamestore
   labels:
     team: config-sync
+    env: staging
